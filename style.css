@@ -1,0 +1,142 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Lato", sans-serif;
+  line-height: 1.8rem;
+  font-weight: 400;
+}
+.bg {
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-attachment: fixed;
+  opacity: 0.7;
+}
+
+.img1 {
+  background-image: url(./img/bg.jpg);
+}
+.bold {
+  font-weight: bold;
+}
+
+.cl {
+  font-size: 2rem;
+  letter-spacing: 0.5rem;
+  color: white;
+}
+.titlecl {
+  background-color: black;
+  padding: 2rem;
+  outline: 8px inset purple;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  outline-offset: 0.6rem;
+  line-height: 2.5rem;
+  outline: 0.4rem inset purple;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+}
+.s1 {
+  text-align: center;
+  padding: 3rem;
+}
+.FS {
+  margin: 1rem;
+}
+.img2 {
+  background-image: url(./img/bg2.jpg);
+  height: 80vh;
+}
+.logo {
+  width: 30%;
+  margin: 1rem;
+}
+.s2 {
+  background-color: #282e34;
+  color: #ddd;
+  font-size: 0.9rem;
+  padding: 4rem 5rem;
+  text-align: center;
+}
+.AWS {
+  padding: 1.5rem;
+}
+.img3 {
+  background-image: url(./img/bg3.jpg);
+  height: 80vh;
+}
+.titleWay {
+  background-color: black;
+  padding: 0.8rem;
+  outline: 8px inset purple;
+  border-top-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+  outline-offset: 0.1rem;
+  line-height: 2.4rem;
+  outline: 0.2rem inset purple;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  color: white;
+  font-size: 2rem;
+}
+.s3 {
+  text-align: center;
+  padding: 3rem;
+}
+.DS {
+  padding: 1rem;
+}
+.img4 {
+  background-image: url(./img/bg4.jpg);
+  height: 80vh;
+}
+.titleTeam {
+  background-color: black;
+  padding: 0.8rem;
+  outline: 8px inset purple;
+  border-top-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+  outline-offset: 0.1rem;
+  line-height: 2.4rem;
+  outline: 0.2rem inset purple;
+  letter-spacing: 0.5rem;
+  text-transform: uppercase;
+  color: white;
+  font-size: 2rem;
+}
+.s4 {
+  background-color: #282e34;
+  color: #ddd;
+  font-size: 0.9rem;
+  padding: 4rem 5rem;
+  text-align: center;
+}
+.why {
+  padding: 1rem;
+}
+.img5 {
+  background-image: url(./img/bg.jpg);
+}
+.lastTitle {
+  background-color: black;
+  padding: 2rem;
+  outline: 8px inset purple;
+  border-top-left-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+  outline-offset: 0.7rem;
+  line-height: 2.5rem;
+  outline: 0.4rem inset purple;
+  letter-spacing: 0.6rem;
+  text-transform: uppercase;
+  color: white;
+  font-size: 2rem;
+}
