@@ -22,16 +22,25 @@ body {
 }
 
 .img1 {
-  background-image: url(./img/bg.jpg);
+  background-image: url(https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=e405d7ef7c41a677498c2766a173bcb0);
 }
 .bold {
   font-weight: bold;
+}
+.bold2 {
+  font-weight: bold;
+  letter-spacing: 0.3rem;
+  font-size: 1.5rem;
+  color: rgb(219, 134, 134);
+
 }
 
 .cl {
   font-size: 2rem;
   letter-spacing: 0.5rem;
   color: white;
+  /* margin-left: 35rem; */
+  /* margin-top: 30rem; */
 }
 .titlecl {
   background-color: black;
@@ -94,6 +103,7 @@ body {
 }
 .DS {
   padding: 1rem;
+  font-size: 2.5rem;
 }
 .img4 {
   background-image: url(./img/bg4.jpg);
@@ -118,10 +128,11 @@ body {
   color: #ddd;
   font-size: 0.9rem;
   padding: 4rem 5rem;
-  text-align: center;
+  /* text-align: center; */
 }
 .why {
-  padding: 1rem;
+  padding: 1.5rem;
+  text-align: center;
 }
 .img5 {
   background-image: url(./img/bg.jpg);
@@ -139,4 +150,28 @@ body {
   text-transform: uppercase;
   color: white;
   font-size: 2rem;
+}
+.titleWay1 {
+  background-color: black;
+  padding: 0.8rem;
+  outline: 8px inset purple;
+  border-top-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+  outline-offset: 0.1rem;
+  line-height: 2.4rem;
+  outline: 0.2rem inset purple;
+  letter-spacing: 0.2rem;
+  color: white;
+  font-size: 1rem;
+}
+.descriptionAWS {
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+}
+.descriptionDS{
+  font-size: 2rem;
+  /* letter-spacing: 0.1rem; */
+}
+li{
+  font-size: 1.2rem;
 }
