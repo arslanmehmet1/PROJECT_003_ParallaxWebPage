@@ -1,9 +1,5 @@
 https://arslanmehmet1.github.io/PROJECT_003_ParallaxWebPage/
 
-<<<<<<< HEAD
-
-=======
->>>>>>> 4b64cba7b627662aabbfd3ecef3aa61b4df5cfda
 # PROJECT_003_ParallaxWebPage
 
 https://user-images.githubusercontent.com/108485739/225331897-38d2172e-d08f-44ad-af6e-9d0f2ede4ed4.mp4
