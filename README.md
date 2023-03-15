@@ -1,7 +1,5 @@
 https://arslanmehmet1.github.io/PROJECT_003_ParallaxWebPage/
 
-C:\Users\HP\Desktop\IT COURSE\5-CODE CHALLENGE & PROJECTS\08-PROJECTS_ParallaxWebPage\PROJECT_003_ParallaxWebPage\ParallaxWebPage .mp4
-
 # PROJECT_003_ParallaxWebPage
 
 Parallax Web Page
